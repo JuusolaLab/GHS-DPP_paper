@@ -1,5 +1,7 @@
 # GHS-DPP paper repository
 
+[![DOI](https://zenodo.org/badge/387398797.svg)](https://zenodo.org/badge/latestdoi/387398797)
+
 This repository contains software and data used
 in the paper titled
 
